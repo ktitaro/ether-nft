@@ -1,0 +1,14 @@
+# Mac OS
+.DS_Store
+
+# Node.js
+node_modules
+*.log
+
+# Dapp
+dapp/.env
+dapp/cache
+dapp/artifacts
+
+# Website
+website/dist
